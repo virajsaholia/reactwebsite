@@ -1,0 +1,582 @@
+.head_about{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    max-width: 1300px !important;
+}
+
+.ab_jupical_heading{
+    font-size: 42px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.ab_jupical_subheading{
+    font-size: 20px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+.ab_jupical_headtext{
+    font-family: 'Outfit' sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+}
+
+.whyus_about{
+    max-width: 1500px !important;
+}
+
+.head_whyus_about{
+    text-align: center;
+    font-family: 'Jost' sans-serif;
+    font-size: 35px;
+    color: #28345beb;
+    font-weight: 500;
+}
+
+.card_head{
+    text-align: center;
+}
+
+.om_head{
+    text-align: center;
+    font-family: 'Jost' sans-serif;
+    font-size: 35px;
+    color: #28345beb;
+    font-weight: 500;
+    padding-left: 90px;
+}
+
+.ov_head{
+    text-align: center;
+    font-family: 'Jost' sans-serif;
+    font-size: 35px;
+    color: #28345beb;
+    font-weight: 500;
+    padding-right: 100px;
+}
+
+.whyus_card_style {
+    margin-left: 90px !important;
+    margin-right: 90px !important;
+    text-align: center;
+}
+
+.whyus_card_design{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.whyus_card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0px;
+    background-color: white;
+    border-radius: 30px;
+    
+}
+
+.ourmission{
+    width: 72px;
+    height: 62px;
+    padding-top: 20px;
+}
+
+.ourvision{
+    width: 72px;
+    height: 62px;
+    padding-top: 20px;
+}
+
+.whyus_heading {
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.whyus_text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 1.6;
+    padding-bottom: 15px;
+}
+
+.product_card_text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    
+}
+
+.success_story{
+    max-width: 1000px !important;
+}
+
+.sucess_story_head{
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.sucess_story_heading{
+    font-family: 'Jost' sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: center;
+    color: #28345beb;
+}
+
+.first_four_company{
+    text-align: center;
+}
+
+.second_three_company{
+    text-align: center;
+}
+
+.third_four_company{
+    text-align: center;
+}
+
+.exceed_digital_solutions{
+    width: 129px;
+    height: 44px;
+}
+
+.logo_procom{
+    width: 163px;
+    height: 48px;
+}
+
+.Taffard_Fabric{
+    width: 163px;
+    height: 12px;
+}
+
+.amcit{
+    width: 122px;
+    height: 39px;
+}
+
+.tantra{
+    width: 122px;
+    height: 39px;
+    padding-top: 50px;
+}
+
+.Gloo_logo{
+    width: 97px;
+    height: 64px;
+    padding-top: 40px;
+}
+
+.mit_mut{
+    width: 103px;
+    height: 103px;
+    padding-top: 20px;
+}
+
+.BZ_CAPITAL_SAS{
+    width: 170px;
+    height: 126px;
+    padding-top: 10px;
+}
+
+.unam{
+    width: 111px;
+    height: 111px;
+    padding-top: 10px;
+}
+
+.jjihs{
+    width: 111px;
+    height: 114px;
+    padding-top: 10px;
+}
+
+.Ranks_Guest_House{
+    width: 218px;
+    height: 117px;
+    padding-top: 10px;
+}
+
+.core_values{
+    max-width: 1500px !important;
+}
+
+.core_value_head{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.core_value_heading{
+    font-family: 'Jost' sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: center;
+    color: #28345beb;
+}
+
+
+.core_value_card_style {
+    margin-left: 90px !important;
+    margin-right: 90px !important;
+    text-align: center;
+}
+
+.core_value_card_design{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.core_value_card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0px;
+    background-color: #f1f6ff;
+    border-radius: 30px;
+    
+}
+
+.core_value_card_heading {
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.core_value_card_text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height: 1.6;
+    padding-bottom: 15px;
+}
+
+.core_value_image{
+    text-align: center;
+    margin-top: -71px;
+}
+
+
+.Certified_experts{
+    width: 80px;
+    height: 80px;
+}
+
+.Extensive_experience{
+    width: 82px;
+    height: 82px;
+}
+
+.Integerity{
+    width: 68px;
+    height: 68px;
+}
+
+.End_to_end{
+    width: 68px;
+    height: 68px;
+}
+
+.Quality_assurance{
+    width: 67px;
+    height: 67px;
+}
+
+.Cost_effective{
+    width: 74px;
+    height: 74px;
+}
+
+.Systematic_approch{
+    width: 72px;
+    height: 72px;
+}
+
+.Strong_ethics{
+    width: 72px;
+    height: 72px;
+}
+
+.providing_solution{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+
+.providing_solution_heading{
+    font-family: 'Jost', sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 1;
+    color: #28345beb;
+    padding-top: 90px;  
+
+}
+
+.heading_solution{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.cover_value_image{
+    width: 843px;
+    height: 469px;
+    padding-right: 20px;
+    
+}
+
+.grow_together_about {
+    box-sizing: border-box !important;
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 170px !important;
+    padding-right: 115px !important;
+    max-width: 100% !important;
+    margin-top: 7%;
+    background-color: #F1F6FF;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-top: 6%;
+}
+
+.grow_together_cover {
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #8A043B;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 1.76px;
+    font-weight: 600;
+}
+
+.grow_together_head {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 42px;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+    padding-right: 30px;
+}
+
+.grow_together_text {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 17px;
+    color: #6B6B6B;
+    padding-right: 125px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.location {
+    padding-top: 30px;
+}
+
+.at {
+    padding-top: 38px;
+}
+
+.call {
+    padding-top: 32px;
+}
+
+.add_point {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    padding-top: 1px;
+}
+
+.grow_form {
+    background-color: #24395B;
+    border-radius: 20px;
+}
+
+.grow_form_head {
+    color: white;
+    font-size: 30px;
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    padding-top: 1px;
+    padding-left: 25px;
+}
+
+.grow_form_text {
+    color: #CCCCCC;
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.form_head {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+input[type=text] {
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+input[type=text]:focus {
+    border: none;
+}
+
+input[type=text]:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+textarea {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+textarea:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.form_name {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_email {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_phone {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_subject {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.aboutjupical_button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 24px;
+    cursor: pointer;
+    border-radius: 50px;
+    width: 92%;
+}
+
+
+.home_contact_form_text {
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.home_contact_form_text:focus {
+    border: none;
+}
+
+.home_contact_form_text:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.home_contact_form_textarea {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.home_contact_form_textarea:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.form_name {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_email {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_phone {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.form_subject {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 24px;
+    cursor: pointer;
+    border-radius: 50px;
+}

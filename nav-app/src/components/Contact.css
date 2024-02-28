@@ -1,0 +1,436 @@
+.our_contact{
+    box-sizing: border-box !important;
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 170px !important;
+    padding-right: 115px !important;
+    max-width: 100% !important;
+    background-color: #F1F6FF;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-top: 8%;
+}
+
+.contact_heading{
+    font-family: 'Jost', sans-serif;
+    font-size: 42px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: left;
+}
+
+.contact_headtext{
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    color: #6b6b6b;
+    text-align: left;
+}
+
+
+.Contact_Us_2{
+    width: 430px;
+    height: 430px;
+    padding-right: 165px;
+    padding-top: 26px;
+}
+
+.contact_form {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.contact_form_head {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    padding-top: 1px;
+    padding-left: 25px;
+}
+
+.contact_form_head {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+input[type=text] {
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #6b6b6b;
+}
+
+input[type=text]:focus {
+    border: none;
+}
+
+input[type=text]:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+textarea {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #6b6b6b;
+}
+
+textarea:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+    border-bottom: 2px solid #6b6b6b;
+}
+
+.contact_form_name {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.contact_form_email {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.contact_form_phone {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.contact_form_subject {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.contactpage_button {
+    background-color: #000000;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 24px;
+    cursor: pointer;
+    border-radius: 50px;
+    width: 92%;
+}
+
+.contact_card_style {
+    margin-left: 129px !important;
+    margin-right: 129px !important;
+}
+
+.contact_card1 {
+    box-shadow: 0px 20px 55px 0px rgba(3.0000000000000053, 31.0000000000001, 72, 0.15);
+    padding: 10px;
+    margin: 10px;
+    background: url("https://jupical.io/wp-content/uploads/2023/11/MicrosoftTeams-image-2.png");
+    border-radius: 70px 0px 70px 0px;
+    height: 244px;
+}
+
+.contact_card2 {
+    box-shadow: 0px 20px 55px 0px rgba(3.0000000000000053, 31.0000000000001, 72, 0.15);
+    padding: 10px;
+    margin: 10px;
+    background: url("https://jupical.io/wp-content/uploads/2023/11/bg02.png");
+    border-radius: 70px 0px 70px 0px;
+    height: 244px;
+}
+
+.contact_card3 {
+    box-shadow: 0px 20px 55px 0px rgba(3.0000000000000053, 31.0000000000001, 72, 0.15);
+    padding: 10px;
+    margin: 10px;
+    background: url("https://jupical.io/wp-content/uploads/2023/11/bg03.png");
+    border-radius: 70px 0px 70px 0px;
+    height: 244px;
+}
+
+.contact_card_heading{
+    font-size: 24px;
+    font-family: 'Jost', sans-serif;
+    color: black;
+    padding-top: 24px;
+    padding-right: 69px;
+}
+
+.different_contact{
+    box-sizing: border-box !important;
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    max-width: 100% !important;
+    background-color: #F1F6FF;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-top: 4%;
+}
+
+.location_contact_us{
+    width: 51px;
+    height: 61px;
+    padding-top: 37px;
+    padding-left: 40px;
+}
+
+.mail_contact_us{
+    width: 48px;
+    height: 39px;
+    padding-top: 48px;
+    padding-left: 48px;
+}
+
+.wp_contactus{
+    width: 48px;
+    height: 48px;
+    padding-top: 40px;
+    padding-left: 48px;
+}
+
+.WhatsApp_QR_code{
+    width: 105px;
+    height: 105px;
+    padding-top: 27px;
+}
+
+.contact_info{
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.globally_serving{
+    background-color: #f1f6ff;
+    max-width: 100% !important;
+    margin-top: 0% !important;
+}
+
+.globle_serve_heading{
+    font-family: 'Jost', sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    color: #1c5c8c;
+    text-align: center;
+    margin-top: 0px !important;
+}
+
+.indian_area{
+    background-color: #1c5c8c;
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 85px;
+}
+
+.indian_area_head{
+    font-family: 'Jost', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    padding-top: 56px;
+    padding-bottom: 40px;
+}
+
+.indian_area_card_style {
+    margin-left: 129px !important;
+    margin-right: 129px !important;
+}
+
+.indian_area_card {
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff2b;
+    border-radius: 15px;
+    height: 100px;
+}
+
+.indian_address{
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 0px;
+}
+
+.indian_address_city{
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 0px;
+}
+
+.different_address{
+        background-color: #f1f6ff;
+        max-width: 100% !important;
+        margin-top: 0% !important;
+        padding-top: 9%;
+        padding-bottom: 9%;
+}
+
+.address_card_style {
+    margin-left: 110px !important;
+    margin-right: 110px !important;
+}
+
+.address_card_design{
+    max-width: 20% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.all_address_card {
+    /* border: 1px solid #ccc; */
+    padding: 20px;
+    margin: 0px;
+    background-color: #1c5c8c1f;
+    border-radius: 15px; 
+    height: 150px;
+}
+
+.all_address_card_heading{
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.all_address_card_text{
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact_form {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.contact_form_head {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    padding-top: 1px;
+    padding-left: 25px;
+}
+
+.contact_form_head {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.contact_form_name{
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom:  1px solid #6b6b6b;
+}
+.contact_form_phone{
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom:  1px solid #6b6b6b;
+}
+.contact_form_email{
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom:  1px solid #6b6b6b;
+}
+.contact_form_subject{
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom:  1px solid #6b6b6b;
+}
+
+.contact_form_textarea{
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #6b6b6b;
+}
+
+.contact_form_textarea:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+.contact_form_phone:focus-visible{
+    outline: -webkit-focus-ring-color auto 0px;
+}
+.contact_form_subject:focus-visible{
+    outline: -webkit-focus-ring-color auto 0px;
+}
+.contact_form_email:focus-visible{
+    outline: -webkit-focus-ring-color auto 0px;
+}
+.contact_form_name:focus-visible{
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+.send_button {
+    background-color: #000000;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 24px;
+    cursor: pointer;
+    border-radius: 50px;
+    width: 92%;
+}

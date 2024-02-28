@@ -1,0 +1,79 @@
+.job-form {
+    max-width: 1140px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.job_form_head{
+    font-family: 'Jost', sans-serif;
+    font-size: 42px;
+
+}
+.job_form_position{
+    padding-left: 11%;
+    font-family: 'Jost',sans-serif;
+    font-size: 60px;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.job_textfield {
+    width: 98%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.job_email {
+    width: 98%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.job_phone {
+    width: 98%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.jobForm_textarea {
+    width: 98%;
+    padding: 8px;
+    padding-bottom: 7%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.job_file {
+    width: 98%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.job_submit_button {
+    background: #1f3b59 !important;
+    border-radius: 14px !important;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    padding: 8px 40px !important;
+    color: #fff;
+    font-size: 24px !important;
+    margin-top: 30px !important;
+    cursor: pointer;
+}
+

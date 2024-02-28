@@ -1,0 +1,49 @@
+footer {
+  background-color: #1C5C8C;
+  color: #fff;
+  padding: 20px 0;
+}
+.img_container{
+  text-align: center;
+}
+
+.footer_logo{
+  width: 11%;
+  padding-top: 5%;
+}
+.flag_gallery{
+  text-align: center;
+  padding-right: 20px;
+  margin-left: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.flags{
+  width: 3%;
+  padding-right: 10px;
+}
+hr {
+  border: 1px solid #444;
+  width: 85%;
+}
+
+.Jupical_copyright_text{
+  color: white;
+  font-size: 15px;
+  text-align: start;
+  padding-top: 10px;
+}
+.copyright_text{
+  margin-left: -16%;
+}
+.social_content_container{
+  text-align: end;
+  padding-top: 10px;
+}
+.social_content{
+  margin-right: -20%;
+}
+.soical_imgs{
+  height: 20px;
+  padding-right: 5%;
+}

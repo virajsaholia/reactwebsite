@@ -1,0 +1,193 @@
+.heading_sub_service {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.service_head {
+    font-size: 42px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.service_headtext {
+    font-size: 20px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+}
+
+.why_service_first {
+    margin-top: 7%;
+    margin-bottom: 0%;
+    background-color: #F1F6FF;
+    max-width: 100% !important;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.why_service_head {
+    font-family: 'Jost' sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.why_service_text1_dami {
+    font-family: 'Outfit' sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    padding-right: 128px;
+    padding-left: 128px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.why_service_text2_dami {
+    font-family: 'Outfit' sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+    padding-right: 140px;
+    padding-left: 140px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.card_style {
+    margin-left: 90px !important;
+    margin-right: 90px !important;
+}
+
+.card_design {
+    max-width: 20% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.sub_service_card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0px;
+    background-color: white;
+    border-radius: 15px;
+
+}
+
+.sub_service_img {
+    padding-left: 65px;
+}
+
+.softdev {
+    text-align: left;
+}
+
+.service_card_heading {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+}
+
+.card_text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6B6B6B;
+    padding-right: 20px;
+
+}
+
+.card_process {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.servicegraphchart_dami {
+    width: 625px;
+    height: 469px;
+    text-align: center;
+    padding-left: 116px;
+    padding-top: 96px;
+}
+
+.why_service_head1 {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 42px;
+    color: black;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    font-weight: 600;
+    padding-right: 37px;
+}
+
+.why_service_text {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 17px;
+    color: #6B6B6B;
+    padding-right: 131px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.circle {
+    width: 23px;
+    height: 23px;
+    border: 3px solid #8A043B;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.fa-check {
+    padding-left: 5px;
+    color: #8A043B;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.service_point1 {
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-top: 24px;
+    font-weight: 500;
+}
+
+@media (max-width: 1024px) {
+    .servicegraphchart_demi_mq {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+
+    .why_service_text1_dami {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .why_service_text2_dami {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .card_style_dami {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .sub_service_img_dami {
+        padding-left: 0px;
+    }
+
+    .servicegraphchart_dami {
+        padding-left: 40px;
+        padding-top: 0px;
+    }
+}

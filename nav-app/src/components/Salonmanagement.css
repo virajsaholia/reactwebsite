@@ -1,0 +1,202 @@
+.heading_sub_product{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.product_head{
+    font-size: 42px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.product_headtext{
+    font-size: 20px;
+    color: #2b3863;
+    font-family: 'Jost' sans-serif;
+    text-align: center;
+}
+
+.product_purpose{
+    margin-top: 7%;
+    margin-bottom: 0%;
+    background-color: #F1F6FF;
+    max-width: 100% !important;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.product_purpose_cover {
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #8A043B;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 1.76px;
+    font-weight: 600;
+    padding-right: 125px;
+    padding-left: 125px;
+}
+
+.product_purpose_head {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 42px;
+    color: #1f3b59;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    font-weight: 600;
+    padding-right: 125px;
+    padding-left: 125px;
+}
+
+.product_purpose_text {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 17px;
+    color: #000;
+    padding-right: 125px;
+    padding-left: 125px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.product_manage_purpose {
+    width: 497px;
+    height: 497px;
+    padding-right: 75px;
+}
+
+.Loan_Management_System{
+    width: 968px;
+    height: 726px;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.product_features{
+    margin-top: 7%;
+    margin-bottom: 0%;
+    background-color: #F1F6FF;
+    max-width: 100% !important;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.product_features_texthead{
+    font-family: "Robot" sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    color: #303567;
+}
+
+
+.product_features_card_style {
+    margin-left: 90px !important;
+    margin-right: 90px !important;
+}
+
+.product_features_card_design{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sub_product_card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0px;
+    background-color: white;
+    border-radius: 30px;
+    
+}
+
+.product_card_heading {
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+}
+
+.product_card_text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+}
+
+.product_features_Benefit_LMS{
+    width: 800px;
+    height: 600px;
+    padding-left: 340px;
+}
+
+.product_feature_happyclient {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.product_feature_clientsaying {
+    width: 452px;
+    height: 452px;
+    padding-left: 83px;
+}
+
+.product_feature_happy_client_cover {
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #8A043B;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 1.76px;
+    font-weight: 600;
+}
+
+.product_feature_happy_client_head {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 42px;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+    padding-right: 33px;
+}
+
+.product_feature_happy_client_text {
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+    font-size: 17px;
+    color: #6B6B6B;
+    padding-right: 0px;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+}
+
+.product_feature_happy_client_id {
+    color: #000000;
+    line-height: 26px;
+    letter-spacing: 0.01px;
+    font-size: 17px;
+}
+
+.ClientContentContainer{
+    box-sizing: border-box !important;
+    min-height: 1px !important;
+    position: relative !important;
+    padding-left: 25px !important;
+    padding-right: 15px !important;
+    width: 50% !important;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    margin-left: 0% !important;
+    right: auto !important;
+    left: auto !important;
+    padding-top: 100px;
+}

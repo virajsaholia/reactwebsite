@@ -1,0 +1,32 @@
+.blogdetail_head{
+    margin-top: 5%;
+    margin-left: 132px;
+    margin-right: 132px;
+}
+
+.blogdetail_date{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    color: #6b6b6b;
+}
+
+.blogdetail_headtext{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    color: #6b6b6b;
+    padding-top: 10px;
+}
+
+.blogdetail_img{
+    width: 646px;
+    height: 323px;
+}
+
+.blogdetail_innercontent{
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    text-align: justify;
+    color: #6b6b6b;
+}
